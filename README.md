@@ -1,16 +1,16 @@
-Название: react за 5 минут (нет)
-Темы 
-	1. react create app (+)
-	1.5 верстка (+)
-	2. routing 
-		- private
-		- public (+)
-	3. forms (+)
-	4. http request (+)
-	5. redux (-)
-	6. crud (+)
+# Название: react за 5 минут (нет)
+## Темы 
+1. react create app (+)
+1.5 верстка (+)
+2. routing 
+    - private
+    - public (+)
+3. forms (+)
+4. http request (+)
+5. redux (-)
+6. crud (+)
 
-Ссылки: 
+## Ссылки
 - Шаг 0. https://reactjs.org/
 - Установить nodeJS https://nodejs.org/en/
 - https://github.com/facebook/create-react-app
