@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    border-bottom: 2px solid #f4f4f4;
+}
+
+.main {
+    min-height: calc(100vh - 58px - 119px);
+}
+
+.footer {
+    background: #f4f4f4;
+    padding: 20px 5px;
+}
+
+.mt10 {
+    margin-top: 10px;
+}
+
+.mt40 {
+    margin-top: 40px;
+}
+
+.mb40 {
+    margin-bottom: 40px;
+}

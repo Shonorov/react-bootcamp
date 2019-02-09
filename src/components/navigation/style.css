@@ -1,0 +1,21 @@
+.nav-links{
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+}
+
+.nav-links__item{
+    flex-basis: calc(100% / 4);
+    max-width: calc(100% / 4);
+    padding-top: 19px;
+    padding-bottom: 16px;
+    background-color: transparent;
+    border-color: transparent;
+    color: black !important;
+}
+
+.nav-links__item.nav-links__item--active{
+    background-color: #ff5122;
+    border-color: #ff5122;
+    color: white !important;
+}
